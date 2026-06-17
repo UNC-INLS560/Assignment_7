@@ -36,12 +36,12 @@ class BattleshipGame:
                 winner = self.players[0].take_turn()
                 # Check to see if the game is over.
                 if winner:
-                    print("Game over!", self.players[0].player_name, "wins!")
+                    print(f"Game over! {self.players[0].player_name} wins!")
             else:
                 winner = self.players[1].take_turn()
                 # Check to see if the game is over.
                 if winner:
-                    print("Game over!", self.players[1].player_name, "wins!")
+                    print(f"Game over! {self.players[1].player_name} wins!")
 
             # Swap the turn so that the other player goes on the next iteration.
             first_players_turn = not first_players_turn
@@ -194,7 +194,7 @@ class HumanPlayer:
     def position_boat(self, boat):
         # Show the board as it exists before this boat is positioned.
         print(self.board)
-        print("You need to position a", boat.label, "of length", boat.size, "on the board above.")
+        print(f"You need to position a {boat.label} of length {boat.size} on the board above.")
         # Ask the user to say if the boat is horizontal or vertical.
         orientation = None
         while orientation is None:
@@ -229,10 +229,10 @@ class HumanPlayer:
     # This function managers a single turn for the player.
     def take_turn(self):
         # Display boards.
-        print(self.player_name+"'s board:")
+        print(f"{self.player_name}'s board:")
         print(self.board)
         print()
-        print("Your view of "+self.opponent.player_name+"'s board:")
+        print(f"Your view of {self.opponent.player_name}'s board:")
         print(self.opponent.board.get_public_view())
 
         # Get attack position.
