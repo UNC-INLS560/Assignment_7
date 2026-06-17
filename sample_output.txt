@@ -1,0 +1,1828 @@
+*************** Welcome to BATTLESHIP! ***************
+Would you like to play with 1 player or 2? 1
+Player 1: Are you ready to position your fleet?  Press enter to begin!
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ _ _ _ _ _ _ _ _ _
+2 _ _ _ _ _ _ _ _ _ _
+3 _ _ _ _ _ _ _ _ _ _
+4 _ _ _ _ _ _ _ _ _ _
+5 _ _ _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You need to position a Aircraft Carrier of length 5 on the board above.
+Would you like to use a vertical or horizontal orientation? (v/h) v
+Please enter the position for the top-left location of the boat.  Use the form x,y (e.g., 1,3): 1,1
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ _ _ _ _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B _ _ _ _ _ _ _ _
+4 _ B _ _ _ _ _ _ _ _
+5 _ B _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You need to position a Battleship of length 4 on the board above.
+Would you like to use a vertical or horizontal orientation? (v/h) h
+Please enter the position for the top-left location of the boat.  Use the form x,y (e.g., 1,3): 2,7
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ _ _ _ _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B _ _ _ _ _ _ _ _
+4 _ B _ _ _ _ _ _ _ _
+5 _ B _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ B B B B _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You need to position a Submarine of length 3 on the board above.
+Would you like to use a vertical or horizontal orientation? (v/h) v
+Please enter the position for the top-left location of the boat.  Use the form x,y (e.g., 1,3): 6,3
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ _ _ _ _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B _ _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ _ _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ B B B B _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You need to position a Destroyer of length 3 on the board above.
+Would you like to use a vertical or horizontal orientation? (v/h) h
+Please enter the position for the top-left location of the boat.  Use the form x,y (e.g., 1,3): 4,1
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ B B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B _ _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ _ _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ B B B B _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You need to position a Patrol Boat of length 2 on the board above.
+Would you like to use a vertical or horizontal orientation? (v/h) v
+Please enter the position for the top-left location of the boat.  Use the form x,y (e.g., 1,3): 9,6
+Your fleet is ready to play.  Your board is positioned as follows:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ B B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B _ _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ _ _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ B B B B _ _ _ B
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+The computer has positioned its fleet.
+The boats are ready... it's time to play.  Press enter to begin!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ B B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B _ _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ _ _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ B B B B _ _ _ B
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ _ _ _ _ _ _ _ _ _
+2 _ _ _ _ _ _ _ _ _ _
+3 _ _ _ _ _ _ _ _ _ _
+4 _ _ _ _ _ _ _ _ _ _
+5 _ _ _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  0  times, with  0  hits and  0  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 0,0
+You missed.
+The computer attacked (3,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ B B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B _ _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ B B B B _ _ _ B
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ _ _ _ _ _ _ _ _ _
+2 _ _ _ _ _ _ _ _ _ _
+3 _ _ _ _ _ _ _ _ _ _
+4 _ _ _ _ _ _ _ _ _ _
+5 _ _ _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  1  times, with  0  hits and  1  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 1,1
+You missed.
+The computer attacked (2,3) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ B B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ B B B B _ _ _ B
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ _ _ _ _ _ _ _ _
+3 _ _ _ _ _ _ _ _ _ _
+4 _ _ _ _ _ _ _ _ _ _
+5 _ _ _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  2  times, with  0  hits and  2  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 2,2
+You missed.
+The computer attacked (1,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ B B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ B B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ _ _ _ _ _ _ _
+4 _ _ _ _ _ _ _ _ _ _
+5 _ _ _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  3  times, with  0  hits and  3  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 3,3
+You missed.
+The computer attacked (4,1) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ B B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ _ _ _ _ _ _
+5 _ _ _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  4  times, with  0  hits and  4  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 4,4
+You missed.
+The computer attacked (2,7) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ _ _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  5  times, with  0  hits and  5  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 5,5
+You missed.
+The computer attacked (7,9) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ _ B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ _ _ _ _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  6  times, with  0  hits and  6  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 6,6
+You hit a boat!
+The computer attacked (8,6) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ _ _ X _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  7  times, with  1  hits and  6  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 5,6
+You hit a boat!
+The computer attacked (4,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ _ X X _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  8  times, with  2  hits and  6  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 4,6
+You missed.
+The computer attacked (1,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ B _ _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X _ _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  9  times, with  2  hits and  7  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 7,6
+You hit a boat!
+The computer attacked (6,5) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ X _ _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X _ _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  10  times, with  3  hits and  7  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 8,6
+You hit a boat!
+The computer attacked (7,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ _ X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X _
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  11  times, with  4  hits and  7  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 9,6
+You hit a boat!
+The computer attacked (3,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O _ _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  12  times, with  5  hits and  7  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 2,0
+You missed.
+The computer attacked (4,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B _ _ _ _ B _ _ _
+5 _ B _ O O _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ _ _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  13  times, with  5  hits and  8  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 4,0
+You missed.
+The computer attacked (2,4) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ _ _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  14  times, with  5  hits and  9  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 6,0
+You missed.
+The computer attacked (4,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ _ B _ _ _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ _ _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  15  times, with  5  hits and  10  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 8,0
+You missed.
+The computer attacked (5,3) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 _ B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ _ _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ _ _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  16  times, with  5  hits and  11  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 3,1
+You missed.
+The computer attacked (0,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ _ _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ _ _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  17  times, with  5  hits and  12  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 5,1
+You missed.
+The computer attacked (8,3) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ _ _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  18  times, with  5  hits and  13  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 7,1
+You missed.
+The computer attacked (6,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O _ _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ _
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  19  times, with  5  hits and  14  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 9,1
+You missed.
+The computer attacked (8,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 _ _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  20  times, with  5  hits and  15  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 0,2
+You missed.
+The computer attacked (3,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X B B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ _ _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  21  times, with  5  hits and  16  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 4,2
+You missed.
+The computer attacked (3,7) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ _ _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  22  times, with  5  hits and  17  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 6,2
+You missed.
+The computer attacked (6,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 _ B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O _ _ _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  23  times, with  5  hits and  18  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 8,2
+You hit a boat!
+The computer attacked (0,4) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ _ _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O _ X _
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  24  times, with  6  hits and  18  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 9,2
+You missed.
+The computer attacked (8,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O _
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O _ X O
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  25  times, with  6  hits and  19  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 7,2
+You hit a boat!
+The computer attacked (9,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O _ _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ _ _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  26  times, with  7  hits and  19  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 1,3
+You missed.
+The computer attacked (3,3) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O _ _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ _ _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  27  times, with  7  hits and  20  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 1,5
+You missed.
+The computer attacked (7,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O _
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ _ _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  28  times, with  7  hits and  21  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 1,7
+You missed.
+The computer attacked (9,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ _ _ _ _ _ _ _ _ _
+You have attacked  29  times, with  7  hits and  22  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 1,9
+You hit a boat!
+The computer attacked (8,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 _ X _ _ _ _ _ _ _ _
+You have attacked  30  times, with  8  hits and  22  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 0,9
+You missed.
+The computer attacked (4,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O _ _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 O X _ _ _ _ _ _ _ _
+You have attacked  31  times, with  8  hits and  23  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 2,9
+You hit a boat!
+The computer attacked (8,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ _ _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 O X X _ _ _ _ _ _ _
+You have attacked  32  times, with  9  hits and  23  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 3,9
+You hit a boat!
+The computer attacked (3,2) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ B _ O _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 O X X X _ _ _ _ _ _
+You have attacked  33  times, with  10  hits and  23  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 4,9
+You missed.
+The computer attacked (1,2) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 _ _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  34  times, with  10  hits and  24  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 0,4
+You missed.
+The computer attacked (2,3) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 _ B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 _ _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  35  times, with  10  hits and  25  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 0,6
+You missed.
+The computer attacked (0,3) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 _ O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 O _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 _ _ _ _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  36  times, with  10  hits and  26  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 0,8
+You missed.
+The computer attacked (0,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 _ _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ _ _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 O _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 O _ _ _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  37  times, with  10  hits and  27  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 2,4
+You missed.
+The computer attacked (0,0) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 O _ _ _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 O _ _ _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  38  times, with  10  hits and  28  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 2,6
+You missed.
+The computer attacked (2,7) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 _ _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 O _ _ _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  39  times, with  10  hits and  29  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 2,8
+You missed.
+The computer attacked (0,6) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ _ _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 O _ O _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  40  times, with  10  hits and  30  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 3,5
+You missed.
+The computer attacked (3,2) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ _ _ _ _ _ _ _
+8 O _ O _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  41  times, with  10  hits and  31  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 3,7
+You missed.
+The computer attacked (3,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ _ _ _ _ _
+8 O _ O _ _ _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  42  times, with  10  hits and  32  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 4,8
+You missed.
+The computer attacked (4,5) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ _ _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ _ _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ _ _ _ _ _
+8 O _ O _ O _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  43  times, with  10  hits and  33  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 5,3
+You missed.
+The computer attacked (7,7) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B B _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ _ _ _ _ _
+8 O _ O _ O _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  44  times, with  10  hits and  34  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 5,7
+You missed.
+The computer attacked (5,7) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B _ O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ _ _ _ _
+9 O X X X O _ _ _ _ _
+You have attacked  45  times, with  10  hits and  35  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 5,9
+You missed.
+The computer attacked (7,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ _ _ _
+4 O _ O _ O _ _ _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ _ _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  46  times, with  10  hits and  36  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 6,4
+You missed.
+The computer attacked (4,1) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ _ B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ _ _ _
+4 O _ O _ O _ O _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ _ _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  47  times, with  10  hits and  37  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 6,8
+You missed.
+The computer attacked (5,4) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X B X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ _ _ _
+4 O _ O _ O _ O _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  48  times, with  10  hits and  38  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 7,3
+You hit a boat!
+The computer attacked (4,7) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ X _ _
+4 O _ O _ O _ O _ _ _
+5 _ O _ O _ O _ _ _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  49  times, with  11  hits and  38  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 7,5
+You missed.
+The computer attacked (8,6) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ X _ _
+4 O _ O _ O _ O _ _ _
+5 _ O _ O _ O _ O _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  50  times, with  11  hits and  39  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 7,4
+You missed.
+The computer attacked (6,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O B _ _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O _ X _ _
+4 O _ O _ O _ O O _ _
+5 _ O _ O _ O _ O _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  51  times, with  11  hits and  40  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 6,3
+You missed.
+The computer attacked (7,4) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O B O _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X _ _
+4 O _ O _ O _ O O _ _
+5 _ O _ O _ O _ O _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  52  times, with  11  hits and  41  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 6,4
+You missed.
+The computer attacked (6,4) and hit a boat!
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O X O _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X _ O _ B
+8 O O _ _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X _ _
+4 O _ O _ O _ O O _ _
+5 _ O _ O _ O _ O _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  53  times, with  11  hits and  42  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 8,3
+You hit a boat!
+The computer attacked (2,8) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O X O _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X _ O _ B
+8 O O O _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X X _
+4 O _ O _ O _ O O _ _
+5 _ O _ O _ O _ O _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  54  times, with  12  hits and  42  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 9,3
+You hit a boat!
+The computer attacked (6,7) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O X O _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X O O _ B
+8 O O O _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X X X
+4 O _ O _ O _ O O _ _
+5 _ O _ O _ O _ O _ _
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  55  times, with  13  hits and  42  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 9,5
+You hit a boat!
+The computer attacked (1,0) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O O _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O X O _ _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X O O _ B
+8 O O O _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X X X
+4 O _ O _ O _ O O _ _
+5 _ O _ O _ O _ O _ X
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  56  times, with  14  hits and  42  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 9,4
+You hit a boat!
+The computer attacked (8,4) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O O _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O X O O _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X O O _ B
+8 O O O _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O _ O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X X X
+4 O _ O _ O _ O O _ X
+5 _ O _ O _ O _ O _ X
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  57  times, with  15  hits and  42  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 8,1
+You hit a boat!
+The computer attacked (0,3) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O O _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O X O O _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X O O _ B
+8 O O O _ _ _ O O O _
+9 _ _ _ _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O X O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X X X
+4 O _ O _ O _ O O _ X
+5 _ O _ O _ O _ O _ X
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  58  times, with  16  hits and  42  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 8,3
+You missed.
+The computer attacked (2,9) and missed.
+Player 1's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O O _ _ _ _ _ _ _ _
+1 O B _ O X B B O O O
+2 _ X _ O _ _ _ _ _ _
+3 O B O O _ O B _ O _
+4 O B O _ _ O X O O _
+5 _ B _ O O _ X O O O
+6 O _ _ _ _ _ _ _ O B
+7 _ _ X X X X O O _ B
+8 O O O _ _ _ O O O _
+9 _ _ O _ _ _ _ O _ _
+
+Your view of The Computer's board:
+  0 1 2 3 4 5 6 7 8 9
+0 O _ O _ O _ O _ O _
+1 _ O _ O _ O _ O X O
+2 O _ O _ O _ O X X O
+3 _ O _ O _ O O X X X
+4 O _ O _ O _ O O _ X
+5 _ O _ O _ O _ O _ X
+6 O _ O _ O X X X X X
+7 _ O _ O _ O _ _ _ _
+8 O _ O _ O _ O _ _ _
+9 O X X X O O _ _ _ _
+You have attacked  59  times, with  16  hits and  43  misses.
+Please enter the position you would like to attack.  Use the form x,y (e.g., 1,3): 8,4
+You hit a boat!
+Game over! Player 1 wins!
+
