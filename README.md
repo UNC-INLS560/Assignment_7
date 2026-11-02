@@ -1,4 +1,4 @@
-# Assignment 6: Managing Collections
+# Assignment 7: Battleship
 
 > [!IMPORTANT]
 > This assignment is to be completed individually. It is not a team project.  You must document (using comments in your code) all resources (beyond our official textbook, Canvas, the class discussion forum, or the class website) that you used to help you complete this assignment. For example, if you referenced a code example from an online website such as Stackoverflow or github you could acknowledge it as follows: 
